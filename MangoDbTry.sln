@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataGenerator", "MangoDbTry\DataGenerator.csproj", "{4065BE9F-67B0-4E59-BA72-F2C94D826927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4065BE9F-67B0-4E59-BA72-F2C94D826927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4065BE9F-67B0-4E59-BA72-F2C94D826927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4065BE9F-67B0-4E59-BA72-F2C94D826927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4065BE9F-67B0-4E59-BA72-F2C94D826927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E836E41D-C305-4B79-8622-2462A594E35B}
+	EndGlobalSection
+EndGlobal
